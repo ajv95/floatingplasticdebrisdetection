@@ -14,7 +14,7 @@ The audio of a GoPro video can be extracted by the following (Anaconda prompt)
 ```
 $ ffmpeg -i **VIDEOFILE PATH**.MP4 -vcodec copy -an **NEW VIDEOFILE PATH**.MP4
 ```
-Afterwards the VideoToImage tool can be used to extract images from a video. 
+Afterwards the VideoToImage tool can be used to extract images from a video. This tool can be found in the folder 'image classification' --> 'pre-processing'
 
 ## Image Classification
 The model accuracies for the detection of plastic debris for a from scratch built baseline model and five state-of-the-art algorithms was done in the Tensorflow and Keras libraries. The notebooks can be found in in the 'image classification' folder. For carrying out the computations the notebook should be uploaded to Google Drive to run the notebook via Google Colab (enable the GPU). 
