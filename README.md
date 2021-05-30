@@ -21,6 +21,7 @@ The model accuracies for the detection of plastic debris for a from scratch buil
 For training with **pre-trained weights** and **from scratch** in the 'Transfer Learning for four classes' notebook, set **model.trainable=False** or **model.trainable=True** respectively. 
 The model results are are presnted below (training and testing on 2.7m and 0 deg):
 
+
 | Model       | Pre-trained weights | Training from scratch |
 | ----------  | ------------------- |
 | Baseline    | 	-           |		78.9%       |
