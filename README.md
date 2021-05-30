@@ -33,4 +33,9 @@ The model results are are presnted below (training and testing on 2.7m and 0 deg
 
 ## Object Detection
 
-* [https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial](#Pre)
+To run the YOLOv4 model as object detector, the notebook and guidelines from the two following repositories were used:
+
+* https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial (Notebook)
+* https://github.com/AlexeyAB/darknet (Guidelines)
+
+The adapted notebook with guidelines, steps to follow and needed files can be found in the folder 'object detection'
