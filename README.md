@@ -12,7 +12,7 @@ Please send a mail to andrevallendar95@gmail.com, if you want to have access to 
 The audio of a GoPro video can be extracted by the following (Anaconda prompt)
 
 ```
-$ ffmpeg -i **VIDEOFILE**.MP4 -vcodec copy -an **VIDEOFILE_NEW**.MP4
+$ ffmpeg -i **VIDEOFILE PATH**.MP4 -vcodec copy -an **NEW VIDEOFILE PATH**.MP4
 ```
 Afterwards the VideoToImage tool can be used to extract images from a video. 
 
