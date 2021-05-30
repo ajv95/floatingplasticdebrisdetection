@@ -8,7 +8,7 @@ For training with **pre-trained weights** and **from scratch** in the 'Transfer 
 Please send a mail to andrevallendar95@gmail.com, if you want to have access to all the data and model weights.
 
 ## Table of contents
-* [General info](#general-info)
+* [Pre-processing](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
@@ -25,7 +25,5 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ ffmpeg -i **VIDEOFILE**.MP4 -vcodec copy -an **VIDEOFILE_NEW**.MP4
 ```
