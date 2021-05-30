@@ -22,11 +22,11 @@ For training with **pre-trained weights** and **from scratch** in the 'Transfer 
 The model results are are presnted below (training and testing on 2.7m and 0 deg):
 
 
-| Model       | Pre-trained weights | Training from scratch |
-| ----------  | ------------------- |
-| Baseline    | 	-           |		78.9%       |
-| ResNet50    | 	45.4%       |		82.4%	    |
-| InceptionV3 | 	54.6%       |		81.5%	    |
-| DenseNet121 | 	62.7%       |		87.6%       |
-| MobileNetV2 | 	60.7%       |		75.0%       |
-| SqueezeNet  | 	66.7%       |		73.9%       |
+| Model      | Pre-trained weights | Training from scratch |
+| ---------- | ------------------- | -------------------   |
+| Baseline   | 		-          |		78.9%      |
+| ResNet50   | 		45.4%      |		82.4%	   |
+| InceptionV3| 		54.6%      |		81.5%	   |
+| DenseNet121| 		62.7%      |		87.6%      |
+| MobileNetV2| 		60.7%      |		75.0%      |
+| SqueezeNet | 		66.7%      |		73.9%      |
