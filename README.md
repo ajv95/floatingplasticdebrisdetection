@@ -7,5 +7,4 @@ For training with **pre-trained weights** and **from scratch** in the 'Transfer 
 
 Please send a mail to andrevallendar95@gmail.com, if you want to have access to all the data and model weights.
 
-asdad.md
 
