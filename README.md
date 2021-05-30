@@ -39,3 +39,6 @@ To run the YOLOv4 model as object detector, the notebook and guidelines from the
 * https://github.com/AlexeyAB/darknet (Guidelines)
 
 The adapted notebook with guidelines, steps to follow and needed files can be found in the folder 'object detection'. 
+
+![image](https://user-images.githubusercontent.com/85031780/120117964-4a3e9980-c190-11eb-906b-0631b72fd441.png)
+
