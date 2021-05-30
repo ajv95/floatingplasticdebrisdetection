@@ -5,8 +5,8 @@ Please send a mail to andrevallendar95@gmail.com, if you want to have access to 
 
 ## Table of contents
 * [Pre-processing](#Pre-processing)
-* [Image Classification](#ImageClassification)
-* [Object Detection YOLOv4](#ObjectDetection)
+* [Image Classification](#Image Classification)
+* [Object Detection YOLOv4](#Object Detection)
 	
 ## Pre-processing
 The audio of a GoPro video can be extracted by the following (Anaconda prompt)
