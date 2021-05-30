@@ -1,5 +1,5 @@
 # Floating Plastic Debris Detection with Deep Learning and Computer Vision
-This repository comprises all the code and notebooks that I used for the content of my MSc thesis. The content revolves around the detection of floating plastic debris in waterways with computer vision and deep learning techniques.
+This repository includes all the code and notebooks that I used for the content of my MSc thesis. The content revolves around the detection of floating plastic debris in waterways with computer vision and deep learning techniques.
 
 Please send a mail to andrevallendar95@gmail.com, if you want to have access to all the data and model weights (image classification and object detection).
 
