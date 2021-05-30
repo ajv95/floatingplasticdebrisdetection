@@ -1,7 +1,7 @@
 # Floating Plastic Debris Detection with Deep Learning and Computer Vision
 This repository comprises all the code and notebooks that I used for the content of my MSc thesis. The content revolves around the detection of floating plastic debris in waterways with computer vision and deep learning techniques.
 
-Please send a mail to andrevallendar95@gmail.com, if you want to have access to all the data and model weights (image classification and object detection)
+Please send a mail to andrevallendar95@gmail.com, if you want to have access to all the data and model weights (image classification and object detection).
 
 ## Table of contents
 * [Pre-processing](#Pre-processing)
@@ -38,4 +38,4 @@ To run the YOLOv4 model as object detector, the notebook and guidelines from the
 * https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial (Notebook)
 * https://github.com/AlexeyAB/darknet (Guidelines)
 
-The adapted notebook with guidelines, steps to follow and needed files can be found in the folder 'object detection'
+The adapted notebook with guidelines, steps to follow and needed files can be found in the folder 'object detection'. 
