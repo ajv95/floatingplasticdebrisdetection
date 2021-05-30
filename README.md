@@ -30,3 +30,7 @@ The model results are are presnted below (training and testing on 2.7m and 0 deg
 | DenseNet121| 		62.7%      |		87.6%      |
 | MobileNetV2| 		60.7%      |		75.0%      |
 | SqueezeNet | 		66.7%      |		73.9%      |
+
+## Object Detection
+
+* [https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial](#Pre)
