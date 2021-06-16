@@ -19,7 +19,7 @@ Afterwards the VideoToImage tool can be used to extract images from a video. Thi
 ## Image Classification
 The model accuracies for the detection of plastic debris for a from scratch built baseline model and five state-of-the-art algorithms was done in the Tensorflow and Keras libraries. The notebooks can be found in in the 'image classification' folder. For carrying out the computations the notebook should be uploaded to Google Drive to run the notebook via Google Colab (enable the GPU). 
 For training with **pre-trained weights** and **from scratch** in the 'Transfer Learning for four classes' notebook, set **model.trainable=False** or **model.trainable=True** respectively. 
-The model results are are presnted below (training and testing on 2.7m and 0 deg):
+The model results are are presnted below (training and testing on 2.7m/0 deg):
 
 
 | Model      | Pre-trained weights | Training from scratch |
@@ -41,4 +41,10 @@ To run the YOLOv4 model as object detector, the notebook and guidelines from the
 The adapted notebook with guidelines, steps to follow and needed files can be found in the folder 'object detection'. 
 
 ![image](https://user-images.githubusercontent.com/85031780/120117964-4a3e9980-c190-11eb-906b-0631b72fd441.png)
+
+## Model weights for Image Classification and Object Detection
+
+The model weights for image classification and object detection can be downloaded via the following link:
+
+The model weights for image classification can be used to replicate the confusion matrices and to get the statistics. For object detection the weights can be used to get predictions for unseen or test images, continue the training process or to get the s and to get the statistics
 
