@@ -1,12 +1,13 @@
 # Floating Plastic Debris Detection with Deep Learning and Computer Vision
 This repository includes all the code and notebooks that I used for the content of my MSc thesis. The content revolves around the detection of floating plastic debris in waterways with computer vision and deep learning techniques. Therefore experiments were carried out with static cameras and mobile phones to capture videos of floating plastic debris. 
 
-Please send a mail to andrevallendar95@gmail.com, if you want to have access to all the data and model weights (image classification and object detection).
+Please send a mail to andrevallendar95@gmail.com, if you want to have access to all the data (image classification and object detection).
 
 ## Table of contents
 * [Pre-processing](#Pre-processing)
 * [Image Classification](#Image-Classification)
 * [Object Detection YOLOv4](#Object-Detection)
+* [Model Weights](#Model-Weights)
 	
 ## Pre-processing
 The audio of a GoPro video can be extracted by the following (Anaconda prompt)
