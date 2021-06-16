@@ -47,7 +47,7 @@ The adapted notebook with guidelines, steps to follow and needed files can be fo
 
 The model weights for image classification and object detection can be downloaded via the following link:
 
-https://drive.google.com/drive/folders/1MNo3y2Vu6xy-kBrMgCJi__X2jRTBO7Xl?usp=sharing
+* https://drive.google.com/drive/folders/1MNo3y2Vu6xy-kBrMgCJi__X2jRTBO7Xl?usp=sharing
 
 The model weights for image classification can be used to replicate the confusion matrices and to get the statistics. For object detection the weights can be used to get predictions for unseen or test images, continue the training process or to get the s and to get the statistics
 
